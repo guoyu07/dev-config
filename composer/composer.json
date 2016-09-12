@@ -5,7 +5,7 @@
           "phploc/phploc": "@stable",
           "phpdocumentor/phpdocumentor": "@stable",
           "phpmd/phpmd": "@stable",
-          "fabpot/php-cs-fixer": "@stable",
+          "friendsofphp/php-cs-fixer": "@stable",
           "slince/mechanic": "*@dev",
           "psy/psysh": "@stable"
      }
